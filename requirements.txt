@@ -6,3 +6,4 @@ imageio
 opencv-python
 scikit-learn
 streamlit
+opencv-python-headless
